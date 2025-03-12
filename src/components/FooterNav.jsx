@@ -8,21 +8,21 @@ export default function FooterNav() {
         <FaUser className="mb-1"></FaUser>
         <span className='text-xs'>About</span>
     </a>
-    <a href='#about'>
+    <a href='#skills'>
         <FaGraduationCap className="mb-1" />
         <span className='text-xs'>Skills</span>
     </a>
-    <a href='#about'>
+    <a href='#home'>
         <FaHome className="mb-1"></FaHome>
         <span className='text-xs'>Home</span>
     </a>
-    <a href='#about'>
+    <a href='#portfolio'>
         <FaBox className="mb-1" />
         <span className='text-xs'>Portfolio</span>
     </a>
-    <a href='#about'>
+    <a href='#experience'>
         <FaEnvelope className="mb-1" />
-        <span className='text-xs'>Contact</span>
+        <span className='text-xs'>Experience</span>
     </a>
   
 

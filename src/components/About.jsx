@@ -12,15 +12,15 @@ export default function About() {
             <div className="md:w-1/2 shadow-xl rounded-md p-5">
                 <h2 className="text-3xl font-bold mb-2"> <span className="text-gray-500">Personal </span> Information </h2>
                 <ul className='flex flex-col gap-2 mb-5'>
-                    <li> <b className="inline-block w-40 text-primary"> Name  </b>  <span> : Jihadur Rahman Noyon </span> </li>
-                    <li> <b className="inline-block w-40 text-primary"> Father's Name  </b> : <span> Anwar Hosen </span> </li>
-                    <li> <b className="inline-block w-40 text-primary"> Mother's Name  </b>  : <span> Fatema Jinnah </span> </li>
-                    <li> <b className="inline-block w-40 text-primary"> Address  </b>  <span> : Bhaluka, Mymensingh </span> </li>
-                    <li> <b className="inline-block w-40 text-primary"> Date of Birth  </b>  : <span> 02-06-1998 </span> </li>
-                    <li> <b className="inline-block w-40 text-primary"> Religion  </b> : <span> Islam </span> </li>
-                    <li> <b className="inline-block w-40 text-primary"> Marital Status  </b> : <span> Unmarried </span> </li>
+                    <li> <b className="inline-block w-32 text-primary"> Name  </b>  <span> : Jihadur Rahman Noyon </span> </li>
+                    <li> <b className="inline-block w-32 text-primary"> Father's Name  </b> : <span> Anwar Hosen </span> </li>
+                    <li> <b className="inline-block w-32 text-primary"> Mother's Name  </b>  : <span> Fatema Jinnah </span> </li>
+                    <li> <b className="inline-block w-32 text-primary"> Address  </b>  <span> : Bhaluka, Mymensingh </span> </li>
+                    <li> <b className="inline-block w-32 text-primary"> Date of Birth  </b>  : <span> 02-06-1998 </span> </li>
+                    <li> <b className="inline-block w-32 text-primary"> Religion  </b> : <span> Islam </span> </li>
+                    <li> <b className="inline-block w-32 text-primary"> Marital Status  </b> : <span> Unmarried </span> </li>
                 </ul>
-                <a href="#" className="btn btn-primary mt-2 btn-wide hover:btn-error"> Download Resume </a>
+                {/* <a href="#" className="btn btn-primary mt-2 btn-wide hover:btn-error"> Download Resume </a> */}
             </div>
 
 
