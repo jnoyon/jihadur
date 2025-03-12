@@ -49,7 +49,7 @@ export default function Hero() {
 
         </div>
       </div>
-      <a className="border border-gray-300 text-2xl animate-bounce p-2 text-gray-600">
+      <a className="border border-gray-300 text-2xl animate-bounce p-2 text-gray-600" href='#about'>
         <FaAngleDown ></FaAngleDown>
       </a>
     </div>
